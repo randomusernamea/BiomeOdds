@@ -1,6 +1,7 @@
 Compile and execute.
 
 Simple calculator, if you wish to modify the path odds to see the long term odds of new paths just modify the matrix, all rows must add up to 1.
+At the end it outputs the sum of odds, if it is not 1, you fucked up somewhere.
 The calculation is done using matrix exponentiation to speed it up, not optimal at all but fast enough.
 You can modify initial state to start from a different biome, doesn't change anything of course for large numbers.
 
