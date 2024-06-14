@@ -39,8 +39,8 @@ Snowy Forest          1.06106%
 Beach                 4.29819%
 Island                0.537274%
 Seabed                4.29819%
-Ice Cave1.06106%
-Sea4.29819%
-Wastelands0.752976%
-Volcano2.46602%
-Mountain2.31449%
+Ice Cave              1.06106%
+Sea                   4.29819%
+Wastelands            0.752976%
+Volcano               2.46602%
+Mountain              2.31449%
