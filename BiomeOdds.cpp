@@ -102,7 +102,7 @@ int main() {
  
     long long turns = 1000000000; // 1 billion
  
-    // Define the initial state vector (example: starting at node 8)
+    // Where you start, useful if you want a small number of turns for w/e reason.
     vector<double> initial_state(N, 0.0);
     initial_state[8] = 1.0; 
  
