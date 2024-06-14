@@ -116,7 +116,7 @@ int main() {
     double auxS = 0;
     for (int i = 0; i < N; ++i){
         auxS += final_state[i];
-        cout << "Probability of being at node " << locations[i] << " after " << turns << " turns: " << 100*final_state[i] << "%" << endl;
+        cout << "Probability of being at " << locations[i] << " after " << turns << " turns: " << 100*final_state[i] << "%" << endl;
     }
     cout << auxS;
     return 0;
