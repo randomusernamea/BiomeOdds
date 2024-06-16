@@ -11,36 +11,36 @@ You're free to modify this code as you see fit and/or adapt it into a different 
 
 Default long term odds:
 
-Slum                  2.01475%
-Construction Site     4.43218%
-Laboratory            0.277012%
-Metropolis            2.01475%
-Power Plant           2.21609%
-Factory               2.21609%
-Dojo                  2.21609%
-Meadow                3.01122%
-Plains                6.04424%
-Grass Fields          2.01475%
-Jungle                3.01122%
-Forest                6.02244%
-Tall Grass            4.49353%
-Temple                3.38057%
-Ancient Ruins         3.24515%
-Desert                2.31449%
-Swamp                 4.95757%
-Graveyard             2.47878%
-Fairy Cave            0.903366%
-Space                 0.367227%
-Abyss                 2.47878%
-Lake                  6.42128%
-Cave                  7.75201%
-Badlands              4.62898%
-Snowy Forest          1.06106%
-Beach                 4.29819%
-Island                0.537274%
-Seabed                4.29819%
-Ice Cave              1.06106%
-Sea                   4.29819%
-Wastelands            0.752976%
-Volcano               2.46602%
-Mountain              2.31449%
+Slum                 2.02133%
+Construction Site    4.4194%
+Laboratory           0.276213%
+Metropolis           2.02133%
+Power Plant          2.2097%
+Factory              2.2097%
+Dojo                 2.2097%
+Meadow               3.0521%
+Plains               6.06399%
+Grass Fields         2.02133%
+Jungle               3.0521%
+Forest               6.10421%
+Tall Grass           4.50742%
+Temple               3.42039%
+Ancient Ruins        3.37869%
+Desert               2.31314%
+Swamp                4.97219%
+Graveyard            2.48609%
+Fairy Cave           0.763026%
+Space                0.495481%
+Abyss                2.48609%
+Lake                 6.36559%
+Cave                 7.74489%
+Badlands             4.62628%
+Snowy Forest         0.943623%
+Beach                4.27624%
+Island               0.53453%
+Seabed               4.27624%
+Ice Cave             0.943623%
+Sea                  4.27624%
+Wastelands           0.753833%
+Volcano              2.46215%
+Mountain             2.31314%
